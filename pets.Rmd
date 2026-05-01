@@ -1,0 +1,27 @@
+---
+title: "Pets"
+---
+
+My pets are a huge part of my life. Hopefully you will enjoy getting to know them!
+
+<div class="pet-grid">
+
+<div class="pet-card">
+  <img src="images/everest.jpg" alt="Everest, golden retriever" class="pet-photo"/>
+  <h3><i class="fa fa-dog"></i> Everest</h3>
+  <p>Everest is my oldest golden retriever, and he has been with me since high school. He is happiest when swimming and showering .</p>
+</div>
+
+<div class="pet-card">
+  <img src="images/taobao.jpg" alt="Taobao, border collie" class="pet-photo" onerror="this.onerror=null;this.src='images/Taobao.jpeg';"/>
+  <h3><i class="fa fa-dog"></i> Taobao</h3>
+  <p>Taobao is the smartest  border collie you will ever met. He is playful with everyone and always trying to steal the cat's food when no one is watching.</p>
+</div>
+
+<div class="pet-card">
+  <img src="images/baka.jpg" alt="Baka, siberian cat" class="pet-photo"/>
+  <h3><i class="fa fa-cat"></i> Baka</h3>
+  <p>Baka is a giant siberian cat who is gentle with people but absolutely ruthless with socks and stuffed animals.</p>
+</div>
+
+</div>

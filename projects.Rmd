@@ -1,0 +1,35 @@
+---
+title: "Rita's Projects"
+---
+
+Below are selected graduate-level projects.
+
+<div class="project-grid">
+
+<div class="project-card">
+<h3>Project 1: Sleep Health and Cancer Outcomes Dashboard</h3>
+<p><strong>Summary:</strong> This project examines sleep and circadian exposures in relation to self-reported cancer history among U.S. adults using NHANES 2017-March 2020 data. It includes an interactive dashboard for exploratory and modeled results, plus a formal thesis-style written poster for research communication.</p>
+<p><strong>Tools:</strong> R, Shiny, NHANES data, survey-weighted analysis, data visualization</p>
+<p><a href="https://ritawkward.shinyapps.io/data555-thesis-dashboard/" target="_blank">Live Dashboard</a></p>
+<p><a href="https://github.com/ritawkward/data555-thesis-shiny-dashboard" target="_blank">GitHub Repository</a></p>
+<p><a href="files/poster.pdf" target="_blank">Thesis Poster (PDF)</a></p>
+</div>
+
+<div class="project-card">
+<h3>Project 2: Epidemiology Report Generator</h3>
+<p><strong>Summary:</strong> A Streamlit application that collects key epidemiologic inputs and produces a structured, user-friendly report summary. The app is designed to make rapid outbreak reporting and interpretation more consistent and accessible.</p>
+<p><strong>Tools:</strong> Python, Streamlit</p>
+<p><a href="https://rita-epidemiology-report.streamlit.app/" target="_blank">Live Streamlit App</a></p>
+<p><a href="https://github.com/ritawkward/BIOS584" target="_blank">GitHub Repository</a></p>
+</div>
+
+<div class="project-card project-card-wide">
+<h3>Project 3: NBA Player Statistics Analysis</h3>
+<p><strong>Summary:</strong> This project analyzes NBA player performance based on per-36-minute statistics (as of October 30, 2025) using data from Basketball Reference. It includes descriptive summaries, visualizations, ranking, and regression-based modeling in a reproducible workflow.</p>
+<p><strong>Tools:</strong> R, ggplot2, gtsummary, regression modeling, Makefile workflow</p>
+<p><a href="https://github.com/ritawkward/data550-midterm-project" target="_blank">GitHub Repository</a></p>
+</div>
+
+</div>
+
+You can also visit my [GitHub profile](https://github.com/ritawkward) for code and ongoing work.

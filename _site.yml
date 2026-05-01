@@ -1,0 +1,31 @@
+name: "Rita's Website"
+navbar:
+  title: "Rita Wang"
+  left:
+  - text: Home
+    href: index.html
+    icon: fa-house
+  - text: About
+    href: about.html
+    icon: fa-user-graduate
+  - text: Projects
+    href: projects.html
+    icon: fa-chart-line
+  - text: Pets
+    href: pets.html
+    icon: fa-paw
+  - text: Curriculum vitae
+    href: files/Resume.pdf
+    icon: fa-file-pdf
+  right:
+  - href: https://github.com/ritawkward
+    icon: fa-github
+  - href: https://www.linkedin.com/in/tianran-wang-764908184/
+    icon: fa-linkedin
+output_dir: docs
+output:
+  html_document:
+    theme: lumen
+    css: styles.css
+    includes: 
+      in_header: header.html

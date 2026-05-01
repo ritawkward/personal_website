@@ -1,0 +1,30 @@
+---
+title: ""
+---
+
+<div class="hero">
+<div class="hero-text">
+
+# Rita Wang
+
+MSPH student in Epidemiology at Emory University, Rollins School of Public Health, with a Data Science Certificate.
+
+My work combines epidemiologic methods and data science to produce clear, evidence-based insights for public health research.
+
+<a class="btn-primary" href="projects.html">View Projects</a>
+
+</div>
+<div class="hero-image">
+
+```{r, echo=FALSE, fig.align='center', out.width='100%'}
+knitr::include_graphics("images/IMG_0495.JPG")
+```
+
+</div>
+</div>
+
+## What I Work On
+
+- Epidemiologic analysis with reproducible workflows in R, SAS, and SQL
+- Research on sleep and circadian health
+- Data visualization and communication for public health decision-making

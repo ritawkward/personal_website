@@ -1,0 +1,21 @@
+---
+title: "About Me"
+---
+
+I am Rita Wang, an MSPH Epidemiology student at Emory University with a Data Science Certificate.
+
+My research interests focus on sleep and circadian health, especially their relationship with cancer diagnosis and population health outcomes. I enjoy translating complex analyses into clear, actionable findings.
+
+I completed my B.A. in Biology with a minor in Bioethics at the University of Virginia, where I built my foundation in population health and research methods.
+
+### Research Interests
+
+- Data science for public impact
+- Epidemiologic study design and regression modeling
+- Sleep and cancer-related health research
+- Reproducible reporting and data visualization
+
+### Contact
+
+- GitHub: [github.com/ritawkward](https://github.com/ritawkward)
+- LinkedIn: [tianran-wang-764908184](https://www.linkedin.com/in/tianran-wang-764908184/)
