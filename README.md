@@ -1,4 +1,4 @@
-# Personal Website (DATA555)
+# Personal Website
 
 Professional portfolio website built with the R Markdown website framework and deployed with GitHub Pages.
 
