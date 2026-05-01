@@ -1,15 +1,9 @@
 .DS_Store
-
-# R / RStudio local files
 .Rhistory
 .RData
 .Ruserdata
 .Rproj.user/
-
-# R Markdown intermediate artifacts
 *_cache/
 *.utf8.md
 *.knit.md
-
-# Local logs
 *.log

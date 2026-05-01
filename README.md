@@ -11,7 +11,6 @@ Professional portfolio website built with the R Markdown website framework and d
 - `_site.yml`: Site navigation and output configuration
 - `styles.css`: Custom CSS styling
 - `files/Resume.pdf`: Resume link target in navbar
-- `files/poster.pdf`: Thesis poster linked on project page
 - `docs/`: Rendered website output for GitHub Pages
 
 ## Run Locally
