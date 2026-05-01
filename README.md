@@ -26,4 +26,4 @@ Or from terminal:
 
 ```bash
 Rscript -e "setwd('Personal_website'); rmarkdown::render_site()"
-``
+```
